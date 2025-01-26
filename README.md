@@ -12,5 +12,6 @@ I'm a third year Computer Science student at the University of Washington. I enj
 
 ### Connect with Me
 - [LinkedIn](https://linkedin.com/in/zhong-elaine)
+- [Ai2 2024 Outstanding Engineer Scholarship Article](https://allenai.org/blog/elaine-zhong-awarded-the-2024-allen-ai-outstanding-engineer-scholarship-bacd2136d65c)
 
 Thanks for stopping by! 🌟
