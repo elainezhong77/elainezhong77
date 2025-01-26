@@ -5,12 +5,12 @@ I'm a third year Computer Science student at the University of Washington. I enj
 - 🌱 I’m currently a software engineer intern at [Ai2](https://allenai.org/).
 - 🎹 Fun Fact: I play the piano and enjoy learning classical pieces in my free time.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - 💻 **Languages**: Java, TypeScript, C/C++, Python, JavaScript, SQL, Ruby, Go, HTML, CSS, PHP
 - 🌐 **Frameworks**: Node.js, React, Spring Boot
 - ⚙️ **Tools**: AWS, Git, Linux, JUnit, Kubernetes, VS Code, IntelliJ
 
-## 🌐 Connect with Me
+## Connect with Me
 - [LinkedIn](https://linkedin.com/in/zhong-elaine)
 
 Thanks for stopping by! 🌟
