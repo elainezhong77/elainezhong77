@@ -10,7 +10,7 @@ I'm a third year Computer Science student at the University of Washington. I enj
 - 🌐 **Frameworks**: Node.js, React, Spring Boot
 - ⚙️ **Tools**: AWS, Git, Linux, JUnit, Kubernetes, VS Code, IntelliJ
 
-### Connect with Me
+### Learn More
 - [LinkedIn](https://linkedin.com/in/zhong-elaine)
 - [Ai2 2024 Outstanding Engineer Scholarship Article](https://allenai.org/blog/elaine-zhong-awarded-the-2024-allen-ai-outstanding-engineer-scholarship-bacd2136d65c)
 
