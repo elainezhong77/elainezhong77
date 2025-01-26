@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Elaine!
+I'm a third year Computer Science student at the University of Washington. I enjoy solving challenging problems and building software that makes an impact.
 
-<!--
-**elainezhong77/elainezhong77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I've previously worked on software for large scale data migration at [AWS Cognito](https://aws.amazon.com/cognito/).
+- 🌱 I’m currently a software engineer intern at [Ai2](https://allenai.org/).
+- 🎹 Fun Fact: I play the piano and enjoy learning classical pieces in my free time.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 **Languages**: Java, TypeScript, C/C++, Python, JavaScript, SQL, Ruby, Go, HTML, CSS, PHP
+- 🌐 **Frameworks**: Node.js, React, Spring Boot
+- ⚙️ **Tools**: AWS, Git, Linux, JUnit, Kubernetes, VS Code, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/zhong-elaine)
+
+Thanks for stopping by! 🌟
